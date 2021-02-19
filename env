@@ -1,0 +1,22 @@
+# Environment Config
+
+# store your secrets and config variables in here
+# only invited collaborators will be able to see your .env values
+
+# reference these in your code with process.env.SECRET
+
+
+# note: .env is a shell file so there can't be spaces around =
+ # Scrubbed by Glitch 2020-11-25T13:31:33+0000
+
+ # Scrubbed by Glitch 2020-12-11T18:26:58+0000
+
+TOKEN=
+ # Scrubbed by Glitch 2021-01-02T15:16:45+0000
+ # Scrubbed by Glitch 2021-01-02T15:46:57+0000
+ # Scrubbed by Glitch 2021-01-06T06:25:36+0000
+ # Scrubbed by Glitch 2021-01-06T07:04:27+0000
+ # Scrubbed by Glitch 2021-02-03T06:50:52+0000
+
+token=Nzg1NTY1OTE4ODc2NDAxNjc1.X85tRg.Yp_8nlbNcdNdLV6hfAWgW3VRd1c
+ # Scrubbed by Glitch 2021-02-07T08:13:24+0000
